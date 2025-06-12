@@ -1,0 +1,96 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# macOS files
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# Python virtual environments
+venv/
+env/
+ENV/
+.venv/
+.pyenv/
+
+# pipenv
+Pipfile.lock
+
+# Poetry
+poetry.lock
+
+# Jupyter Notebook
+.ipynb_checkpoints
+
+# VS Code
+.vscode/
+
+# PyCharm
+.idea/
+
+# MyPy
+.mypy_cache/
+.dmypy.json
+dmypy.json
+
+# Pytest
+.pytest_cache/
+
+# Coverage reports
+htmlcov/
+.coverage
+.coverage.*
+.cache
+nosetests.xml
+coverage.xml
+
+# PyInstaller
+dist/
+build/
+*.spec
+
+# Unit test / coverage reports
+.tox/
+.nox/
+
+# Logs
+*.log
+
+# Local settings
+*.env
+*.local
+.env.*
+.envrc
+
+# Wheels
+*.whl
+
+# Backup files
+*~
+*.bak
+*.swp
+
+# Database
+*.sqlite3
+
+# Distribution / packaging
+.Python
+MANIFEST
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+*.egg-info/
+.installed.cfg
+
+# macOS trash
+.Trashes
